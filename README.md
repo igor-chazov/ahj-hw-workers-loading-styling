@@ -1,6 +1,6 @@
 # WebWorkers, ServiceWorkers
 
-[[Github Pages](https://igor-chazov.github.io/ahj-hw-workers-loading-styling)]
+[![Build status](https://ci.appveyor.com/api/projects/status/10hvh5cibnoapu4y?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-hw-workers-loading-styling) [[Github Pages](https://igor-chazov.github.io/ahj-hw-workers-loading-styling)]
 
 ---
 
